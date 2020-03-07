@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ruslan-mini-app/static/css/main.981f7211.chunk.css",
+    "main.js": "/ruslan-mini-app/static/js/main.254e6954.chunk.js",
+    "main.js.map": "/ruslan-mini-app/static/js/main.254e6954.chunk.js.map",
+    "runtime-main.js": "/ruslan-mini-app/static/js/runtime-main.81e67440.js",
+    "runtime-main.js.map": "/ruslan-mini-app/static/js/runtime-main.81e67440.js.map",
+    "static/css/2.733ba2d0.chunk.css": "/ruslan-mini-app/static/css/2.733ba2d0.chunk.css",
+    "static/js/2.ef0e51b6.chunk.js": "/ruslan-mini-app/static/js/2.ef0e51b6.chunk.js",
+    "static/js/2.ef0e51b6.chunk.js.map": "/ruslan-mini-app/static/js/2.ef0e51b6.chunk.js.map",
+    "index.html": "/ruslan-mini-app/index.html",
+    "precache-manifest.1091f47a4e0028e336eee59c48d9d55b.js": "/ruslan-mini-app/precache-manifest.1091f47a4e0028e336eee59c48d9d55b.js",
+    "service-worker.js": "/ruslan-mini-app/service-worker.js",
+    "static/css/2.733ba2d0.chunk.css.map": "/ruslan-mini-app/static/css/2.733ba2d0.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/ruslan-mini-app/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.ef0e51b6.chunk.js.LICENSE.txt": "/ruslan-mini-app/static/js/2.ef0e51b6.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/ruslan-mini-app/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81e67440.js",
+    "static/css/2.733ba2d0.chunk.css",
+    "static/js/2.ef0e51b6.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.254e6954.chunk.js"
+  ]
+}
